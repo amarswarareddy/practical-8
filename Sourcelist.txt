@@ -1,0 +1,2 @@
+before shorting = [ 9,3,2,6,1,0]
+after shorting = [ 0,1,2,3,6,9]
